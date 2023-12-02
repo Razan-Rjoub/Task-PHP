@@ -9,4 +9,5 @@
 <h4>7- npm run dev</h4>
 <h4>8- php artisan migrate</h4>
 <h4>9- php artisan db:seed</h4>
-<h4>10- To open the dashboard, use the endpoint /dashboard</h4>
+<h4>10- php artisan serve</h4>
+<h4>11- To open the dashboard, use the endpoint /dashboard</h4>
