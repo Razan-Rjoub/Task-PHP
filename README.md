@@ -6,7 +6,7 @@
 <h4>4- cp .env.example .env</h4>
 <h4>5- php artisan key:generate</h4>
 <h4>6- npm install</h4>
-<h4>7- npm run dev</h4>
+<h4>7-  npm run build</h4>
 <h4>8- php artisan migrate</h4>
 <h4>9- php artisan db:seed</h4>
 <h4>10- php artisan serve</h4>
